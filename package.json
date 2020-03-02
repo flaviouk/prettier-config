@@ -1,0 +1,14 @@
+{
+  "name": "@imflavio/prettier-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:imflavio/prettier-config.git",
+  "author": "Flávio Carvalho <flavio@imflavio.com>",
+  "dependencies": {
+    "prettier": "1.19.1"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/imflavio"
+  }
+}
